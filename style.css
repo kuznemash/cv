@@ -1,32 +1,32 @@
 
 @font-face {
 	font-family: 'Muller-Bold';
-	src: url('/fonts/muller-bold.eot'); /* IE 9 Compatibility Mode */
-	src: url('/fonts/muller-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('/fonts/muller-bold.woff2') format('woff2'), /* Super Modern Browsers */
-		url('/fonts/muller-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('/fonts/muller-bold.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('/fonts/muller-bold.svg#muller-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('fonts/muller-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/muller-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/muller-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/muller-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/muller-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/muller-bold.svg#muller-bold') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
 	font-family: 'Muller-Regular';
-	src: url('/fonts/muller-regular.eot'); /* IE 9 Compatibility Mode */
-	src: url('/fonts/muller-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('/fonts/muller-regular.woff2') format('woff2'), /* Super Modern Browsers */
-		url('/fonts/muller-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('/fonts/muller-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('/fonts/muller-regular.svg#muller-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('fonts/muller-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/muller-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/muller-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/muller-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/muller-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/muller-regular.svg#muller-regular') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
 	font-family: 'ArsenicaAlt-Bold';
-	src: url('/fonts/arsenicaalt-bold.eot'); /* IE 9 Compatibility Mode */
-	src: url('/fonts/arsenicaalt-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('/fonts/arsenicaalt-bold.woff2') format('woff2'), /* Super Modern Browsers */
-		url('/fonts/arsenicaalt-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('/fonts/arsenicaalt-bold.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('/fonts/arsenicaalt-bold.svg#arsenicaalt-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('fonts/arsenicaalt-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/arsenicaalt-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/arsenicaalt-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/arsenicaalt-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/arsenicaalt-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/arsenicaalt-bold.svg#arsenicaalt-bold') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 body {
